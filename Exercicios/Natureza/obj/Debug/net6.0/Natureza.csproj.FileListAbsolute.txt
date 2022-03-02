@@ -1,0 +1,15 @@
+C:\Users\Piettro Torres\source\repos\Exercicios\Natureza\bin\Debug\net6.0\Natureza.exe
+C:\Users\Piettro Torres\source\repos\Exercicios\Natureza\bin\Debug\net6.0\Natureza.deps.json
+C:\Users\Piettro Torres\source\repos\Exercicios\Natureza\bin\Debug\net6.0\Natureza.runtimeconfig.json
+C:\Users\Piettro Torres\source\repos\Exercicios\Natureza\bin\Debug\net6.0\Natureza.dll
+C:\Users\Piettro Torres\source\repos\Exercicios\Natureza\bin\Debug\net6.0\ref\Natureza.dll
+C:\Users\Piettro Torres\source\repos\Exercicios\Natureza\bin\Debug\net6.0\Natureza.pdb
+C:\Users\Piettro Torres\source\repos\Exercicios\Natureza\obj\Debug\net6.0\Natureza.csproj.AssemblyReference.cache
+C:\Users\Piettro Torres\source\repos\Exercicios\Natureza\obj\Debug\net6.0\Natureza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Piettro Torres\source\repos\Exercicios\Natureza\obj\Debug\net6.0\Natureza.AssemblyInfoInputs.cache
+C:\Users\Piettro Torres\source\repos\Exercicios\Natureza\obj\Debug\net6.0\Natureza.AssemblyInfo.cs
+C:\Users\Piettro Torres\source\repos\Exercicios\Natureza\obj\Debug\net6.0\Natureza.csproj.CoreCompileInputs.cache
+C:\Users\Piettro Torres\source\repos\Exercicios\Natureza\obj\Debug\net6.0\Natureza.dll
+C:\Users\Piettro Torres\source\repos\Exercicios\Natureza\obj\Debug\net6.0\ref\Natureza.dll
+C:\Users\Piettro Torres\source\repos\Exercicios\Natureza\obj\Debug\net6.0\Natureza.pdb
+C:\Users\Piettro Torres\source\repos\Exercicios\Natureza\obj\Debug\net6.0\Natureza.genruntimeconfig.cache

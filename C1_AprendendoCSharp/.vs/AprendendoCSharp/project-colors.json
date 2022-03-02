@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b97c4f61-f6d3-473d-adf9-fdf51638d3d4": {
+      "ProjectGuid": "b97c4f61-f6d3-473d-adf9-fdf51638d3d4",
+      "DisplayName": "1-PrimeiroProjeto",
+      "ColorIndex": 0
+    },
+    "5f724b8c-c59f-4ded-941b-e625080b1d8f": {
+      "ProjectGuid": "5f724b8c-c59f-4ded-941b-e625080b1d8f",
+      "DisplayName": "7-Condicionais",
+      "ColorIndex": 1
+    },
+    "d26fa80a-7776-4545-874c-0492fc7ad952": {
+      "ProjectGuid": "d26fa80a-7776-4545-874c-0492fc7ad952",
+      "DisplayName": "8-Condicionais2",
+      "ColorIndex": 2
+    },
+    "d4095ba7-9176-42b3-8e91-e95c6c1fe712": {
+      "ProjectGuid": "d4095ba7-9176-42b3-8e91-e95c6c1fe712",
+      "DisplayName": "9-Escopo",
+      "ColorIndex": 3
+    },
+    "5eb4dcd3-2a69-4151-a4a6-649ed4bf2fb4": {
+      "ProjectGuid": "5eb4dcd3-2a69-4151-a4a6-649ed4bf2fb4",
+      "DisplayName": "TesteCondicional2",
+      "ColorIndex": 4
+    },
+    "cfc72cc3-ea1a-493e-b1bf-c4e41abc71fd": {
+      "ProjectGuid": "cfc72cc3-ea1a-493e-b1bf-c4e41abc71fd",
+      "DisplayName": "TesteEscopo",
+      "ColorIndex": 5
+    },
+    "fc748506-baac-4a3a-a75c-eb405c6d7ad0": {
+      "ProjectGuid": "fc748506-baac-4a3a-a75c-eb405c6d7ad0",
+      "DisplayName": "AliquotaComIFs",
+      "ColorIndex": 6
+    },
+    "7b4c859a-f1a9-451a-9f76-d79bf9a465b3": {
+      "ProjectGuid": "7b4c859a-f1a9-451a-9f76-d79bf9a465b3",
+      "DisplayName": "ComandoSwitch",
+      "ColorIndex": 7
+    },
+    "d1e14d29-9879-43da-a19a-e9d068e4fb66": {
+      "ProjectGuid": "d1e14d29-9879-43da-a19a-e9d068e4fb66",
+      "DisplayName": "12-CalculaInvestimentoLongoPrazo",
+      "ColorIndex": 8
+    },
+    "5675e83c-48e7-4ed4-b31b-9a492cbfcf7d": {
+      "ProjectGuid": "5675e83c-48e7-4ed4-b31b-9a492cbfcf7d",
+      "DisplayName": "11-CalculaPoupanca2",
+      "ColorIndex": 9
+    },
+    "a62ed9a5-150c-48ad-b01a-7bd6c151b219": {
+      "ProjectGuid": "a62ed9a5-150c-48ad-b01a-7bd6c151b219",
+      "DisplayName": "While_Atividade",
+      "ColorIndex": 10
+    },
+    "d2360ad9-01cc-46d0-a0bb-bd6362374c79": {
+      "ProjectGuid": "d2360ad9-01cc-46d0-a0bb-bd6362374c79",
+      "DisplayName": "10-CalculaPoupanca",
+      "ColorIndex": 11
+    },
+    "8df36815-d3db-487c-83ac-c1809fc02214": {
+      "ProjectGuid": "8df36815-d3db-487c-83ac-c1809fc02214",
+      "DisplayName": "Transformando_While_em_For",
+      "ColorIndex": 12
+    },
+    "6bd0cb63-d8a8-4c67-9f0a-32978102b4fc": {
+      "ProjectGuid": "6bd0cb63-d8a8-4c67-9f0a-32978102b4fc",
+      "DisplayName": "13-ForEncadeado",
+      "ColorIndex": 13
+    },
+    "11c89384-18aa-4d7b-b354-c7fbea70fee5": {
+      "ProjectGuid": "11c89384-18aa-4d7b-b354-c7fbea70fee5",
+      "DisplayName": "LacoDeRepeticaoWhile",
+      "ColorIndex": 14
+    },
+    "e725a286-c432-436a-bef6-ab18ad00eabd": {
+      "ProjectGuid": "e725a286-c432-436a-bef6-ab18ad00eabd",
+      "DisplayName": "LacoDeRepeticaoFor",
+      "ColorIndex": 15
+    },
+    "dec924c7-ada0-48fd-9eb7-72d5c4254145": {
+      "ProjectGuid": "dec924c7-ada0-48fd-9eb7-72d5c4254145",
+      "DisplayName": "LacoDeRepeticao",
+      "ColorIndex": 0
+    },
+    "810bb613-3470-4a3f-9db9-2c6493aac8b1": {
+      "ProjectGuid": "810bb613-3470-4a3f-9db9-2c6493aac8b1",
+      "DisplayName": "LacoDeRepeticao2",
+      "ColorIndex": 1
+    },
+    "d7f36921-224f-4632-8710-f7b848730ada": {
+      "ProjectGuid": "d7f36921-224f-4632-8710-f7b848730ada",
+      "DisplayName": "MultiplosDeTrês",
+      "ColorIndex": 2
+    },
+    "0b189b83-c872-4a33-a3e4-ec90f0a4d7da": {
+      "ProjectGuid": "0b189b83-c872-4a33-a3e4-ec90f0a4d7da",
+      "DisplayName": "Fatorial",
+      "ColorIndex": 3
+    },
+    "9466f100-0298-4774-8a29-f54bb615841d": {
+      "ProjectGuid": "9466f100-0298-4774-8a29-f54bb615841d",
+      "DisplayName": "2-CriandoVariaveis",
+      "ColorIndex": 4
+    },
+    "b9448db0-5927-448d-930d-f3872275eb42": {
+      "ProjectGuid": "b9448db0-5927-448d-930d-f3872275eb42",
+      "DisplayName": "3-CriandoVariaveisPontoFlutuante",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

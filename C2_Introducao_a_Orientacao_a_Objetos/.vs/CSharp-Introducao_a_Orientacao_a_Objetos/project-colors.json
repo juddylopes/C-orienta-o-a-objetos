@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "84a8bb58-dfe2-447b-8f7c-c00f800e696a": {
+      "ProjectGuid": "84a8bb58-dfe2-447b-8f7c-c00f800e696a",
+      "DisplayName": "1-ByteBank",
+      "ColorIndex": 0
+    },
+    "49566f7c-953c-4f6c-a7ec-e87c6820df92": {
+      "ProjectGuid": "49566f7c-953c-4f6c-a7ec-e87c6820df92",
+      "DisplayName": "PrimeiraClasse",
+      "ColorIndex": 1
+    },
+    "8dbfb0ec-0ebd-42af-aeef-b3f8e29469a8": {
+      "ProjectGuid": "8dbfb0ec-0ebd-42af-aeef-b3f8e29469a8",
+      "DisplayName": "2-ByteBank",
+      "ColorIndex": 2
+    },
+    "6b3cf4b7-764a-493e-be48-c0b95f674eb8": {
+      "ProjectGuid": "6b3cf4b7-764a-493e-be48-c0b95f674eb8",
+      "DisplayName": "3-ByteBank",
+      "ColorIndex": 3
+    },
+    "f04f1149-4b50-4c50-b58c-e8d1b36ef34c": {
+      "ProjectGuid": "f04f1149-4b50-4c50-b58c-e8d1b36ef34c",
+      "DisplayName": "PrimeiraContaCorrente",
+      "ColorIndex": 4
+    },
+    "0f02f48a-5b4f-4753-8808-2811b6e264c8": {
+      "ProjectGuid": "0f02f48a-5b4f-4753-8808-2811b6e264c8",
+      "DisplayName": "4-ByteBank",
+      "ColorIndex": 5
+    },
+    "28f7de19-6f74-4711-8b3e-1ff62189de9b": {
+      "ProjectGuid": "28f7de19-6f74-4711-8b3e-1ff62189de9b",
+      "DisplayName": "CriandoMetodos",
+      "ColorIndex": 6
+    },
+    "5b9394b3-6526-412b-9bc4-0a5af68eb9f9": {
+      "ProjectGuid": "5b9394b3-6526-412b-9bc4-0a5af68eb9f9",
+      "DisplayName": "5-ByteBank",
+      "ColorIndex": 7
+    },
+    "2045163c-f66b-448c-bf39-099c9819e3b3": {
+      "ProjectGuid": "2045163c-f66b-448c-bf39-099c9819e3b3",
+      "DisplayName": "Referências",
+      "ColorIndex": 8
+    },
+    "00739046-4439-40a7-94f2-f5f4316dc25b": {
+      "ProjectGuid": "00739046-4439-40a7-94f2-f5f4316dc25b",
+      "DisplayName": "Referencias",
+      "ColorIndex": 9
+    },
+    "fb466073-767d-43fa-a6d9-9f58f7bbd6f4": {
+      "ProjectGuid": "fb466073-767d-43fa-a6d9-9f58f7bbd6f4",
+      "DisplayName": "6-ByteBank",
+      "ColorIndex": 10
+    },
+    "eff1fb93-322c-48e6-8dc9-e9706171c71b": {
+      "ProjectGuid": "eff1fb93-322c-48e6-8dc9-e9706171c71b",
+      "DisplayName": "Criando_Getters_Betters",
+      "ColorIndex": 11
+    },
+    "4f06f93a-dedb-44ae-9eb8-5d6111bbe93e": {
+      "ProjectGuid": "4f06f93a-dedb-44ae-9eb8-5d6111bbe93e",
+      "DisplayName": "7-ByteBank",
+      "ColorIndex": 12
+    },
+    "b0cc8683-3acf-4fb6-9d27-43b4f1a16ae5": {
+      "ProjectGuid": "b0cc8683-3acf-4fb6-9d27-43b4f1a16ae5",
+      "DisplayName": "CriandoConstrutoresEMembrosEstáticos",
+      "ColorIndex": 13
+    }
+  },
+  "NextColorIndex": 14
+}

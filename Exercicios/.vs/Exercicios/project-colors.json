@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "69587894-4f2e-4c2b-a002-ec5d0003c3e1": {
+      "ProjectGuid": "69587894-4f2e-4c2b-a002-ec5d0003c3e1",
+      "DisplayName": "Exercicios",
+      "ColorIndex": 0
+    },
+    "4bfad568-8931-45bc-bfab-0da55dd66a9a": {
+      "ProjectGuid": "4bfad568-8931-45bc-bfab-0da55dd66a9a",
+      "DisplayName": "Calculadora",
+      "ColorIndex": 1
+    },
+    "98787a4d-04f8-43ed-96fb-f7448e1d1b7c": {
+      "ProjectGuid": "98787a4d-04f8-43ed-96fb-f7448e1d1b7c",
+      "DisplayName": "Natureza",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

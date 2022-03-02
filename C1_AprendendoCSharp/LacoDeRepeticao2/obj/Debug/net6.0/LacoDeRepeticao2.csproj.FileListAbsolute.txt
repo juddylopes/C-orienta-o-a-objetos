@@ -1,0 +1,14 @@
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\LacoDeRepeticao2\bin\Debug\net6.0\LacoDeRepeticao2.exe
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\LacoDeRepeticao2\bin\Debug\net6.0\LacoDeRepeticao2.deps.json
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\LacoDeRepeticao2\bin\Debug\net6.0\LacoDeRepeticao2.runtimeconfig.json
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\LacoDeRepeticao2\bin\Debug\net6.0\LacoDeRepeticao2.dll
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\LacoDeRepeticao2\bin\Debug\net6.0\ref\LacoDeRepeticao2.dll
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\LacoDeRepeticao2\bin\Debug\net6.0\LacoDeRepeticao2.pdb
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\LacoDeRepeticao2\obj\Debug\net6.0\LacoDeRepeticao2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\LacoDeRepeticao2\obj\Debug\net6.0\LacoDeRepeticao2.AssemblyInfoInputs.cache
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\LacoDeRepeticao2\obj\Debug\net6.0\LacoDeRepeticao2.AssemblyInfo.cs
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\LacoDeRepeticao2\obj\Debug\net6.0\LacoDeRepeticao2.csproj.CoreCompileInputs.cache
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\LacoDeRepeticao2\obj\Debug\net6.0\LacoDeRepeticao2.dll
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\LacoDeRepeticao2\obj\Debug\net6.0\ref\LacoDeRepeticao2.dll
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\LacoDeRepeticao2\obj\Debug\net6.0\LacoDeRepeticao2.pdb
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\LacoDeRepeticao2\obj\Debug\net6.0\LacoDeRepeticao2.genruntimeconfig.cache

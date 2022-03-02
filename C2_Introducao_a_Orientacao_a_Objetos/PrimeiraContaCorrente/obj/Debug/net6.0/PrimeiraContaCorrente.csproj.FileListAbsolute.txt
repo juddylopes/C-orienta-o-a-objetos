@@ -1,0 +1,14 @@
+C:\Users\Piettro Torres\source\repos\CSharp-Introducao_a_Orientacao_a_Objetos\PrimeiraContaCorrente\obj\Debug\net6.0\PrimeiraContaCorrente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Piettro Torres\source\repos\CSharp-Introducao_a_Orientacao_a_Objetos\PrimeiraContaCorrente\obj\Debug\net6.0\PrimeiraContaCorrente.AssemblyInfoInputs.cache
+C:\Users\Piettro Torres\source\repos\CSharp-Introducao_a_Orientacao_a_Objetos\PrimeiraContaCorrente\obj\Debug\net6.0\PrimeiraContaCorrente.AssemblyInfo.cs
+C:\Users\Piettro Torres\source\repos\CSharp-Introducao_a_Orientacao_a_Objetos\PrimeiraContaCorrente\obj\Debug\net6.0\PrimeiraContaCorrente.csproj.CoreCompileInputs.cache
+C:\Users\Piettro Torres\source\repos\CSharp-Introducao_a_Orientacao_a_Objetos\PrimeiraContaCorrente\bin\Debug\net6.0\PrimeiraContaCorrente.exe
+C:\Users\Piettro Torres\source\repos\CSharp-Introducao_a_Orientacao_a_Objetos\PrimeiraContaCorrente\bin\Debug\net6.0\PrimeiraContaCorrente.deps.json
+C:\Users\Piettro Torres\source\repos\CSharp-Introducao_a_Orientacao_a_Objetos\PrimeiraContaCorrente\bin\Debug\net6.0\PrimeiraContaCorrente.runtimeconfig.json
+C:\Users\Piettro Torres\source\repos\CSharp-Introducao_a_Orientacao_a_Objetos\PrimeiraContaCorrente\bin\Debug\net6.0\PrimeiraContaCorrente.dll
+C:\Users\Piettro Torres\source\repos\CSharp-Introducao_a_Orientacao_a_Objetos\PrimeiraContaCorrente\bin\Debug\net6.0\ref\PrimeiraContaCorrente.dll
+C:\Users\Piettro Torres\source\repos\CSharp-Introducao_a_Orientacao_a_Objetos\PrimeiraContaCorrente\bin\Debug\net6.0\PrimeiraContaCorrente.pdb
+C:\Users\Piettro Torres\source\repos\CSharp-Introducao_a_Orientacao_a_Objetos\PrimeiraContaCorrente\obj\Debug\net6.0\PrimeiraContaCorrente.dll
+C:\Users\Piettro Torres\source\repos\CSharp-Introducao_a_Orientacao_a_Objetos\PrimeiraContaCorrente\obj\Debug\net6.0\ref\PrimeiraContaCorrente.dll
+C:\Users\Piettro Torres\source\repos\CSharp-Introducao_a_Orientacao_a_Objetos\PrimeiraContaCorrente\obj\Debug\net6.0\PrimeiraContaCorrente.pdb
+C:\Users\Piettro Torres\source\repos\CSharp-Introducao_a_Orientacao_a_Objetos\PrimeiraContaCorrente\obj\Debug\net6.0\PrimeiraContaCorrente.genruntimeconfig.cache

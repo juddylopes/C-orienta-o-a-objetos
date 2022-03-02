@@ -1,0 +1,14 @@
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\TesteEscopo\bin\Debug\net6.0\TesteEscopo.exe
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\TesteEscopo\bin\Debug\net6.0\TesteEscopo.deps.json
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\TesteEscopo\bin\Debug\net6.0\TesteEscopo.runtimeconfig.json
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\TesteEscopo\bin\Debug\net6.0\TesteEscopo.dll
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\TesteEscopo\bin\Debug\net6.0\ref\TesteEscopo.dll
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\TesteEscopo\bin\Debug\net6.0\TesteEscopo.pdb
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\TesteEscopo\obj\Debug\net6.0\TesteEscopo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\TesteEscopo\obj\Debug\net6.0\TesteEscopo.AssemblyInfoInputs.cache
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\TesteEscopo\obj\Debug\net6.0\TesteEscopo.AssemblyInfo.cs
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\TesteEscopo\obj\Debug\net6.0\TesteEscopo.csproj.CoreCompileInputs.cache
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\TesteEscopo\obj\Debug\net6.0\TesteEscopo.dll
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\TesteEscopo\obj\Debug\net6.0\ref\TesteEscopo.dll
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\TesteEscopo\obj\Debug\net6.0\TesteEscopo.pdb
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\TesteEscopo\obj\Debug\net6.0\TesteEscopo.genruntimeconfig.cache

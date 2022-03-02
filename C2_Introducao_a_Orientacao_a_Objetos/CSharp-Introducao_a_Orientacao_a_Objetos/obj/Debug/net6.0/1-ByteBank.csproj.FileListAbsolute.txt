@@ -1,0 +1,15 @@
+C:\Users\Piettro Torres\source\repos\CSharp-Introducao_a_Orientacao_a_Objetos\CSharp-Introducao_a_Orientacao_a_Objetos\obj\Debug\net6.0\1-ByteBank.csproj.AssemblyReference.cache
+C:\Users\Piettro Torres\source\repos\CSharp-Introducao_a_Orientacao_a_Objetos\CSharp-Introducao_a_Orientacao_a_Objetos\obj\Debug\net6.0\1-ByteBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Piettro Torres\source\repos\CSharp-Introducao_a_Orientacao_a_Objetos\CSharp-Introducao_a_Orientacao_a_Objetos\obj\Debug\net6.0\1-ByteBank.AssemblyInfoInputs.cache
+C:\Users\Piettro Torres\source\repos\CSharp-Introducao_a_Orientacao_a_Objetos\CSharp-Introducao_a_Orientacao_a_Objetos\obj\Debug\net6.0\1-ByteBank.AssemblyInfo.cs
+C:\Users\Piettro Torres\source\repos\CSharp-Introducao_a_Orientacao_a_Objetos\CSharp-Introducao_a_Orientacao_a_Objetos\obj\Debug\net6.0\1-ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\Piettro Torres\source\repos\CSharp-Introducao_a_Orientacao_a_Objetos\CSharp-Introducao_a_Orientacao_a_Objetos\bin\Debug\net6.0\1-ByteBank.exe
+C:\Users\Piettro Torres\source\repos\CSharp-Introducao_a_Orientacao_a_Objetos\CSharp-Introducao_a_Orientacao_a_Objetos\bin\Debug\net6.0\1-ByteBank.deps.json
+C:\Users\Piettro Torres\source\repos\CSharp-Introducao_a_Orientacao_a_Objetos\CSharp-Introducao_a_Orientacao_a_Objetos\bin\Debug\net6.0\1-ByteBank.runtimeconfig.json
+C:\Users\Piettro Torres\source\repos\CSharp-Introducao_a_Orientacao_a_Objetos\CSharp-Introducao_a_Orientacao_a_Objetos\bin\Debug\net6.0\1-ByteBank.dll
+C:\Users\Piettro Torres\source\repos\CSharp-Introducao_a_Orientacao_a_Objetos\CSharp-Introducao_a_Orientacao_a_Objetos\bin\Debug\net6.0\ref\1-ByteBank.dll
+C:\Users\Piettro Torres\source\repos\CSharp-Introducao_a_Orientacao_a_Objetos\CSharp-Introducao_a_Orientacao_a_Objetos\bin\Debug\net6.0\1-ByteBank.pdb
+C:\Users\Piettro Torres\source\repos\CSharp-Introducao_a_Orientacao_a_Objetos\CSharp-Introducao_a_Orientacao_a_Objetos\obj\Debug\net6.0\1-ByteBank.dll
+C:\Users\Piettro Torres\source\repos\CSharp-Introducao_a_Orientacao_a_Objetos\CSharp-Introducao_a_Orientacao_a_Objetos\obj\Debug\net6.0\ref\1-ByteBank.dll
+C:\Users\Piettro Torres\source\repos\CSharp-Introducao_a_Orientacao_a_Objetos\CSharp-Introducao_a_Orientacao_a_Objetos\obj\Debug\net6.0\1-ByteBank.pdb
+C:\Users\Piettro Torres\source\repos\CSharp-Introducao_a_Orientacao_a_Objetos\CSharp-Introducao_a_Orientacao_a_Objetos\obj\Debug\net6.0\1-ByteBank.genruntimeconfig.cache

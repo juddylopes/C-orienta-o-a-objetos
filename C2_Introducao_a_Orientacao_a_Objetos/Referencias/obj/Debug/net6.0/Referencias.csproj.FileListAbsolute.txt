@@ -1,0 +1,14 @@
+C:\Users\Piettro Torres\source\repos\CSharp-Introducao_a_Orientacao_a_Objetos\Referencias\bin\Debug\net6.0\Referencias.exe
+C:\Users\Piettro Torres\source\repos\CSharp-Introducao_a_Orientacao_a_Objetos\Referencias\bin\Debug\net6.0\Referencias.deps.json
+C:\Users\Piettro Torres\source\repos\CSharp-Introducao_a_Orientacao_a_Objetos\Referencias\bin\Debug\net6.0\Referencias.runtimeconfig.json
+C:\Users\Piettro Torres\source\repos\CSharp-Introducao_a_Orientacao_a_Objetos\Referencias\bin\Debug\net6.0\Referencias.dll
+C:\Users\Piettro Torres\source\repos\CSharp-Introducao_a_Orientacao_a_Objetos\Referencias\bin\Debug\net6.0\ref\Referencias.dll
+C:\Users\Piettro Torres\source\repos\CSharp-Introducao_a_Orientacao_a_Objetos\Referencias\bin\Debug\net6.0\Referencias.pdb
+C:\Users\Piettro Torres\source\repos\CSharp-Introducao_a_Orientacao_a_Objetos\Referencias\obj\Debug\net6.0\Referencias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Piettro Torres\source\repos\CSharp-Introducao_a_Orientacao_a_Objetos\Referencias\obj\Debug\net6.0\Referencias.AssemblyInfoInputs.cache
+C:\Users\Piettro Torres\source\repos\CSharp-Introducao_a_Orientacao_a_Objetos\Referencias\obj\Debug\net6.0\Referencias.AssemblyInfo.cs
+C:\Users\Piettro Torres\source\repos\CSharp-Introducao_a_Orientacao_a_Objetos\Referencias\obj\Debug\net6.0\Referencias.csproj.CoreCompileInputs.cache
+C:\Users\Piettro Torres\source\repos\CSharp-Introducao_a_Orientacao_a_Objetos\Referencias\obj\Debug\net6.0\Referencias.dll
+C:\Users\Piettro Torres\source\repos\CSharp-Introducao_a_Orientacao_a_Objetos\Referencias\obj\Debug\net6.0\ref\Referencias.dll
+C:\Users\Piettro Torres\source\repos\CSharp-Introducao_a_Orientacao_a_Objetos\Referencias\obj\Debug\net6.0\Referencias.pdb
+C:\Users\Piettro Torres\source\repos\CSharp-Introducao_a_Orientacao_a_Objetos\Referencias\obj\Debug\net6.0\Referencias.genruntimeconfig.cache

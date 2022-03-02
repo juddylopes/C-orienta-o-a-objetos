@@ -1,0 +1,15 @@
+C:\Users\Piettro Torres\source\repos\CSharp-Introducao_a_Orientacao_a_Objetos\02-ByteBank\bin\Debug\net6.0\2-ByteBank.exe
+C:\Users\Piettro Torres\source\repos\CSharp-Introducao_a_Orientacao_a_Objetos\02-ByteBank\bin\Debug\net6.0\2-ByteBank.deps.json
+C:\Users\Piettro Torres\source\repos\CSharp-Introducao_a_Orientacao_a_Objetos\02-ByteBank\bin\Debug\net6.0\2-ByteBank.runtimeconfig.json
+C:\Users\Piettro Torres\source\repos\CSharp-Introducao_a_Orientacao_a_Objetos\02-ByteBank\bin\Debug\net6.0\2-ByteBank.dll
+C:\Users\Piettro Torres\source\repos\CSharp-Introducao_a_Orientacao_a_Objetos\02-ByteBank\bin\Debug\net6.0\ref\2-ByteBank.dll
+C:\Users\Piettro Torres\source\repos\CSharp-Introducao_a_Orientacao_a_Objetos\02-ByteBank\bin\Debug\net6.0\2-ByteBank.pdb
+C:\Users\Piettro Torres\source\repos\CSharp-Introducao_a_Orientacao_a_Objetos\02-ByteBank\obj\Debug\net6.0\2-ByteBank.csproj.AssemblyReference.cache
+C:\Users\Piettro Torres\source\repos\CSharp-Introducao_a_Orientacao_a_Objetos\02-ByteBank\obj\Debug\net6.0\2-ByteBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Piettro Torres\source\repos\CSharp-Introducao_a_Orientacao_a_Objetos\02-ByteBank\obj\Debug\net6.0\2-ByteBank.AssemblyInfoInputs.cache
+C:\Users\Piettro Torres\source\repos\CSharp-Introducao_a_Orientacao_a_Objetos\02-ByteBank\obj\Debug\net6.0\2-ByteBank.AssemblyInfo.cs
+C:\Users\Piettro Torres\source\repos\CSharp-Introducao_a_Orientacao_a_Objetos\02-ByteBank\obj\Debug\net6.0\2-ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\Piettro Torres\source\repos\CSharp-Introducao_a_Orientacao_a_Objetos\02-ByteBank\obj\Debug\net6.0\2-ByteBank.dll
+C:\Users\Piettro Torres\source\repos\CSharp-Introducao_a_Orientacao_a_Objetos\02-ByteBank\obj\Debug\net6.0\ref\2-ByteBank.dll
+C:\Users\Piettro Torres\source\repos\CSharp-Introducao_a_Orientacao_a_Objetos\02-ByteBank\obj\Debug\net6.0\2-ByteBank.pdb
+C:\Users\Piettro Torres\source\repos\CSharp-Introducao_a_Orientacao_a_Objetos\02-ByteBank\obj\Debug\net6.0\2-ByteBank.genruntimeconfig.cache

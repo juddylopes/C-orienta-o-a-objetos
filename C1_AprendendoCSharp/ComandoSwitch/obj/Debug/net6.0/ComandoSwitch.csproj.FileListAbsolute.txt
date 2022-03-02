@@ -1,0 +1,14 @@
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\ComandoSwitch\bin\Debug\net6.0\ComandoSwitch.exe
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\ComandoSwitch\bin\Debug\net6.0\ComandoSwitch.deps.json
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\ComandoSwitch\bin\Debug\net6.0\ComandoSwitch.runtimeconfig.json
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\ComandoSwitch\bin\Debug\net6.0\ComandoSwitch.dll
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\ComandoSwitch\bin\Debug\net6.0\ref\ComandoSwitch.dll
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\ComandoSwitch\bin\Debug\net6.0\ComandoSwitch.pdb
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\ComandoSwitch\obj\Debug\net6.0\ComandoSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\ComandoSwitch\obj\Debug\net6.0\ComandoSwitch.AssemblyInfoInputs.cache
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\ComandoSwitch\obj\Debug\net6.0\ComandoSwitch.AssemblyInfo.cs
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\ComandoSwitch\obj\Debug\net6.0\ComandoSwitch.csproj.CoreCompileInputs.cache
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\ComandoSwitch\obj\Debug\net6.0\ComandoSwitch.dll
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\ComandoSwitch\obj\Debug\net6.0\ref\ComandoSwitch.dll
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\ComandoSwitch\obj\Debug\net6.0\ComandoSwitch.pdb
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\ComandoSwitch\obj\Debug\net6.0\ComandoSwitch.genruntimeconfig.cache

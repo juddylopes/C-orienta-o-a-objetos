@@ -1,0 +1,15 @@
+C:\Users\Piettro Torres\source\repos\C3_Entendendo_Heranca_e_Interface\AplicacaoDeConsole\bin\Debug\net6.0\AplicacaoDeConsole.exe
+C:\Users\Piettro Torres\source\repos\C3_Entendendo_Heranca_e_Interface\AplicacaoDeConsole\bin\Debug\net6.0\AplicacaoDeConsole.deps.json
+C:\Users\Piettro Torres\source\repos\C3_Entendendo_Heranca_e_Interface\AplicacaoDeConsole\bin\Debug\net6.0\AplicacaoDeConsole.runtimeconfig.json
+C:\Users\Piettro Torres\source\repos\C3_Entendendo_Heranca_e_Interface\AplicacaoDeConsole\bin\Debug\net6.0\AplicacaoDeConsole.dll
+C:\Users\Piettro Torres\source\repos\C3_Entendendo_Heranca_e_Interface\AplicacaoDeConsole\bin\Debug\net6.0\ref\AplicacaoDeConsole.dll
+C:\Users\Piettro Torres\source\repos\C3_Entendendo_Heranca_e_Interface\AplicacaoDeConsole\bin\Debug\net6.0\AplicacaoDeConsole.pdb
+C:\Users\Piettro Torres\source\repos\C3_Entendendo_Heranca_e_Interface\AplicacaoDeConsole\obj\Debug\net6.0\AplicacaoDeConsole.csproj.AssemblyReference.cache
+C:\Users\Piettro Torres\source\repos\C3_Entendendo_Heranca_e_Interface\AplicacaoDeConsole\obj\Debug\net6.0\AplicacaoDeConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Piettro Torres\source\repos\C3_Entendendo_Heranca_e_Interface\AplicacaoDeConsole\obj\Debug\net6.0\AplicacaoDeConsole.AssemblyInfoInputs.cache
+C:\Users\Piettro Torres\source\repos\C3_Entendendo_Heranca_e_Interface\AplicacaoDeConsole\obj\Debug\net6.0\AplicacaoDeConsole.AssemblyInfo.cs
+C:\Users\Piettro Torres\source\repos\C3_Entendendo_Heranca_e_Interface\AplicacaoDeConsole\obj\Debug\net6.0\AplicacaoDeConsole.csproj.CoreCompileInputs.cache
+C:\Users\Piettro Torres\source\repos\C3_Entendendo_Heranca_e_Interface\AplicacaoDeConsole\obj\Debug\net6.0\AplicacaoDeConsole.dll
+C:\Users\Piettro Torres\source\repos\C3_Entendendo_Heranca_e_Interface\AplicacaoDeConsole\obj\Debug\net6.0\ref\AplicacaoDeConsole.dll
+C:\Users\Piettro Torres\source\repos\C3_Entendendo_Heranca_e_Interface\AplicacaoDeConsole\obj\Debug\net6.0\AplicacaoDeConsole.pdb
+C:\Users\Piettro Torres\source\repos\C3_Entendendo_Heranca_e_Interface\AplicacaoDeConsole\obj\Debug\net6.0\AplicacaoDeConsole.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\AliquotaComIFs\bin\Debug\net6.0\AliquotaComIFs.exe
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\AliquotaComIFs\bin\Debug\net6.0\AliquotaComIFs.deps.json
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\AliquotaComIFs\bin\Debug\net6.0\AliquotaComIFs.runtimeconfig.json
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\AliquotaComIFs\bin\Debug\net6.0\AliquotaComIFs.dll
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\AliquotaComIFs\bin\Debug\net6.0\ref\AliquotaComIFs.dll
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\AliquotaComIFs\bin\Debug\net6.0\AliquotaComIFs.pdb
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\AliquotaComIFs\obj\Debug\net6.0\AliquotaComIFs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\AliquotaComIFs\obj\Debug\net6.0\AliquotaComIFs.AssemblyInfoInputs.cache
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\AliquotaComIFs\obj\Debug\net6.0\AliquotaComIFs.AssemblyInfo.cs
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\AliquotaComIFs\obj\Debug\net6.0\AliquotaComIFs.csproj.CoreCompileInputs.cache
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\AliquotaComIFs\obj\Debug\net6.0\AliquotaComIFs.dll
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\AliquotaComIFs\obj\Debug\net6.0\ref\AliquotaComIFs.dll
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\AliquotaComIFs\obj\Debug\net6.0\AliquotaComIFs.pdb
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\AliquotaComIFs\obj\Debug\net6.0\AliquotaComIFs.genruntimeconfig.cache

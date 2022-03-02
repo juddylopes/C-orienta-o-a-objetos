@@ -1,0 +1,14 @@
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\10-CalculaPoupanca\obj\Debug\net6.0\10-CalculaPoupanca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\10-CalculaPoupanca\obj\Debug\net6.0\10-CalculaPoupanca.AssemblyInfoInputs.cache
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\10-CalculaPoupanca\obj\Debug\net6.0\10-CalculaPoupanca.AssemblyInfo.cs
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\10-CalculaPoupanca\obj\Debug\net6.0\10-CalculaPoupanca.csproj.CoreCompileInputs.cache
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\10-CalculaPoupanca\bin\Debug\net6.0\10-CalculaPoupanca.exe
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\10-CalculaPoupanca\bin\Debug\net6.0\10-CalculaPoupanca.deps.json
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\10-CalculaPoupanca\bin\Debug\net6.0\10-CalculaPoupanca.runtimeconfig.json
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\10-CalculaPoupanca\bin\Debug\net6.0\10-CalculaPoupanca.dll
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\10-CalculaPoupanca\bin\Debug\net6.0\ref\10-CalculaPoupanca.dll
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\10-CalculaPoupanca\bin\Debug\net6.0\10-CalculaPoupanca.pdb
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\10-CalculaPoupanca\obj\Debug\net6.0\10-CalculaPoupanca.dll
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\10-CalculaPoupanca\obj\Debug\net6.0\ref\10-CalculaPoupanca.dll
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\10-CalculaPoupanca\obj\Debug\net6.0\10-CalculaPoupanca.pdb
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\10-CalculaPoupanca\obj\Debug\net6.0\10-CalculaPoupanca.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Piettro Torres\source\repos\CSharp-Introducao_a_Orientacao_a_Objetos\Criando_Getters_Betters\bin\Debug\net6.0\Criando_Getters_Betters.exe
+C:\Users\Piettro Torres\source\repos\CSharp-Introducao_a_Orientacao_a_Objetos\Criando_Getters_Betters\bin\Debug\net6.0\Criando_Getters_Betters.deps.json
+C:\Users\Piettro Torres\source\repos\CSharp-Introducao_a_Orientacao_a_Objetos\Criando_Getters_Betters\bin\Debug\net6.0\Criando_Getters_Betters.runtimeconfig.json
+C:\Users\Piettro Torres\source\repos\CSharp-Introducao_a_Orientacao_a_Objetos\Criando_Getters_Betters\bin\Debug\net6.0\Criando_Getters_Betters.dll
+C:\Users\Piettro Torres\source\repos\CSharp-Introducao_a_Orientacao_a_Objetos\Criando_Getters_Betters\bin\Debug\net6.0\ref\Criando_Getters_Betters.dll
+C:\Users\Piettro Torres\source\repos\CSharp-Introducao_a_Orientacao_a_Objetos\Criando_Getters_Betters\bin\Debug\net6.0\Criando_Getters_Betters.pdb
+C:\Users\Piettro Torres\source\repos\CSharp-Introducao_a_Orientacao_a_Objetos\Criando_Getters_Betters\obj\Debug\net6.0\Criando_Getters_Betters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Piettro Torres\source\repos\CSharp-Introducao_a_Orientacao_a_Objetos\Criando_Getters_Betters\obj\Debug\net6.0\Criando_Getters_Betters.AssemblyInfoInputs.cache
+C:\Users\Piettro Torres\source\repos\CSharp-Introducao_a_Orientacao_a_Objetos\Criando_Getters_Betters\obj\Debug\net6.0\Criando_Getters_Betters.AssemblyInfo.cs
+C:\Users\Piettro Torres\source\repos\CSharp-Introducao_a_Orientacao_a_Objetos\Criando_Getters_Betters\obj\Debug\net6.0\Criando_Getters_Betters.csproj.CoreCompileInputs.cache
+C:\Users\Piettro Torres\source\repos\CSharp-Introducao_a_Orientacao_a_Objetos\Criando_Getters_Betters\obj\Debug\net6.0\Criando_Getters_Betters.dll
+C:\Users\Piettro Torres\source\repos\CSharp-Introducao_a_Orientacao_a_Objetos\Criando_Getters_Betters\obj\Debug\net6.0\ref\Criando_Getters_Betters.dll
+C:\Users\Piettro Torres\source\repos\CSharp-Introducao_a_Orientacao_a_Objetos\Criando_Getters_Betters\obj\Debug\net6.0\Criando_Getters_Betters.pdb
+C:\Users\Piettro Torres\source\repos\CSharp-Introducao_a_Orientacao_a_Objetos\Criando_Getters_Betters\obj\Debug\net6.0\Criando_Getters_Betters.genruntimeconfig.cache

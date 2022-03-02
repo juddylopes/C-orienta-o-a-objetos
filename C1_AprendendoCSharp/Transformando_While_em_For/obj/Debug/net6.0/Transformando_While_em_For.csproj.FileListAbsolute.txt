@@ -1,0 +1,14 @@
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\Transformando_While_em_For\obj\Debug\net6.0\Transformando_While_em_For.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\Transformando_While_em_For\obj\Debug\net6.0\Transformando_While_em_For.AssemblyInfoInputs.cache
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\Transformando_While_em_For\obj\Debug\net6.0\Transformando_While_em_For.AssemblyInfo.cs
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\Transformando_While_em_For\obj\Debug\net6.0\Transformando_While_em_For.csproj.CoreCompileInputs.cache
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\Transformando_While_em_For\bin\Debug\net6.0\Transformando_While_em_For.exe
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\Transformando_While_em_For\bin\Debug\net6.0\Transformando_While_em_For.deps.json
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\Transformando_While_em_For\bin\Debug\net6.0\Transformando_While_em_For.runtimeconfig.json
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\Transformando_While_em_For\bin\Debug\net6.0\Transformando_While_em_For.dll
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\Transformando_While_em_For\bin\Debug\net6.0\ref\Transformando_While_em_For.dll
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\Transformando_While_em_For\bin\Debug\net6.0\Transformando_While_em_For.pdb
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\Transformando_While_em_For\obj\Debug\net6.0\Transformando_While_em_For.dll
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\Transformando_While_em_For\obj\Debug\net6.0\ref\Transformando_While_em_For.dll
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\Transformando_While_em_For\obj\Debug\net6.0\Transformando_While_em_For.pdb
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\Transformando_While_em_For\obj\Debug\net6.0\Transformando_While_em_For.genruntimeconfig.cache

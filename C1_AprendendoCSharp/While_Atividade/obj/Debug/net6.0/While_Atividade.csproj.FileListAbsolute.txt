@@ -1,0 +1,14 @@
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\While_Atividade\bin\Debug\net6.0\While_Atividade.exe
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\While_Atividade\bin\Debug\net6.0\While_Atividade.deps.json
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\While_Atividade\bin\Debug\net6.0\While_Atividade.runtimeconfig.json
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\While_Atividade\bin\Debug\net6.0\While_Atividade.dll
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\While_Atividade\bin\Debug\net6.0\ref\While_Atividade.dll
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\While_Atividade\bin\Debug\net6.0\While_Atividade.pdb
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\While_Atividade\obj\Debug\net6.0\While_Atividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\While_Atividade\obj\Debug\net6.0\While_Atividade.AssemblyInfoInputs.cache
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\While_Atividade\obj\Debug\net6.0\While_Atividade.AssemblyInfo.cs
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\While_Atividade\obj\Debug\net6.0\While_Atividade.csproj.CoreCompileInputs.cache
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\While_Atividade\obj\Debug\net6.0\While_Atividade.dll
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\While_Atividade\obj\Debug\net6.0\ref\While_Atividade.dll
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\While_Atividade\obj\Debug\net6.0\While_Atividade.pdb
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\While_Atividade\obj\Debug\net6.0\While_Atividade.genruntimeconfig.cache

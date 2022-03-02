@@ -1,0 +1,14 @@
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\MultiplosDeTrês\bin\Debug\net6.0\MultiplosDeTrês.exe
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\MultiplosDeTrês\bin\Debug\net6.0\MultiplosDeTrês.deps.json
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\MultiplosDeTrês\bin\Debug\net6.0\MultiplosDeTrês.runtimeconfig.json
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\MultiplosDeTrês\bin\Debug\net6.0\MultiplosDeTrês.dll
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\MultiplosDeTrês\bin\Debug\net6.0\ref\MultiplosDeTrês.dll
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\MultiplosDeTrês\bin\Debug\net6.0\MultiplosDeTrês.pdb
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\MultiplosDeTrês\obj\Debug\net6.0\MultiplosDeTrês.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\MultiplosDeTrês\obj\Debug\net6.0\MultiplosDeTrês.AssemblyInfoInputs.cache
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\MultiplosDeTrês\obj\Debug\net6.0\MultiplosDeTrês.AssemblyInfo.cs
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\MultiplosDeTrês\obj\Debug\net6.0\MultiplosDeTrês.csproj.CoreCompileInputs.cache
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\MultiplosDeTrês\obj\Debug\net6.0\MultiplosDeTrês.dll
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\MultiplosDeTrês\obj\Debug\net6.0\ref\MultiplosDeTrês.dll
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\MultiplosDeTrês\obj\Debug\net6.0\MultiplosDeTrês.pdb
+C:\Users\Piettro Torres\source\repos\AprendendoCSharp\MultiplosDeTrês\obj\Debug\net6.0\MultiplosDeTrês.genruntimeconfig.cache

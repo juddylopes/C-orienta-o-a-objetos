@@ -1,0 +1,15 @@
+C:\Users\Piettro Torres\source\repos\Teste_C\Teste_C\bin\Debug\net6.0\Teste_C.exe
+C:\Users\Piettro Torres\source\repos\Teste_C\Teste_C\bin\Debug\net6.0\Teste_C.deps.json
+C:\Users\Piettro Torres\source\repos\Teste_C\Teste_C\bin\Debug\net6.0\Teste_C.runtimeconfig.json
+C:\Users\Piettro Torres\source\repos\Teste_C\Teste_C\bin\Debug\net6.0\Teste_C.dll
+C:\Users\Piettro Torres\source\repos\Teste_C\Teste_C\bin\Debug\net6.0\ref\Teste_C.dll
+C:\Users\Piettro Torres\source\repos\Teste_C\Teste_C\bin\Debug\net6.0\Teste_C.pdb
+C:\Users\Piettro Torres\source\repos\Teste_C\Teste_C\obj\Debug\net6.0\Teste_C.csproj.AssemblyReference.cache
+C:\Users\Piettro Torres\source\repos\Teste_C\Teste_C\obj\Debug\net6.0\Teste_C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Piettro Torres\source\repos\Teste_C\Teste_C\obj\Debug\net6.0\Teste_C.AssemblyInfoInputs.cache
+C:\Users\Piettro Torres\source\repos\Teste_C\Teste_C\obj\Debug\net6.0\Teste_C.AssemblyInfo.cs
+C:\Users\Piettro Torres\source\repos\Teste_C\Teste_C\obj\Debug\net6.0\Teste_C.csproj.CoreCompileInputs.cache
+C:\Users\Piettro Torres\source\repos\Teste_C\Teste_C\obj\Debug\net6.0\Teste_C.dll
+C:\Users\Piettro Torres\source\repos\Teste_C\Teste_C\obj\Debug\net6.0\ref\Teste_C.dll
+C:\Users\Piettro Torres\source\repos\Teste_C\Teste_C\obj\Debug\net6.0\Teste_C.pdb
+C:\Users\Piettro Torres\source\repos\Teste_C\Teste_C\obj\Debug\net6.0\Teste_C.genruntimeconfig.cache
