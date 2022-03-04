@@ -1,0 +1,15 @@
+C:\Users\Piettro Torres\source\repos\C3_Entendendo_Heranca_e_Interface\ByteBank_Atual\bin\Release\net6.0\ByteBank_Atual.exe
+C:\Users\Piettro Torres\source\repos\C3_Entendendo_Heranca_e_Interface\ByteBank_Atual\bin\Release\net6.0\ByteBank_Atual.deps.json
+C:\Users\Piettro Torres\source\repos\C3_Entendendo_Heranca_e_Interface\ByteBank_Atual\bin\Release\net6.0\ByteBank_Atual.runtimeconfig.json
+C:\Users\Piettro Torres\source\repos\C3_Entendendo_Heranca_e_Interface\ByteBank_Atual\bin\Release\net6.0\ByteBank_Atual.dll
+C:\Users\Piettro Torres\source\repos\C3_Entendendo_Heranca_e_Interface\ByteBank_Atual\bin\Release\net6.0\ref\ByteBank_Atual.dll
+C:\Users\Piettro Torres\source\repos\C3_Entendendo_Heranca_e_Interface\ByteBank_Atual\bin\Release\net6.0\ByteBank_Atual.pdb
+C:\Users\Piettro Torres\source\repos\C3_Entendendo_Heranca_e_Interface\ByteBank_Atual\obj\Release\net6.0\ByteBank_Atual.csproj.AssemblyReference.cache
+C:\Users\Piettro Torres\source\repos\C3_Entendendo_Heranca_e_Interface\ByteBank_Atual\obj\Release\net6.0\ByteBank_Atual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Piettro Torres\source\repos\C3_Entendendo_Heranca_e_Interface\ByteBank_Atual\obj\Release\net6.0\ByteBank_Atual.AssemblyInfoInputs.cache
+C:\Users\Piettro Torres\source\repos\C3_Entendendo_Heranca_e_Interface\ByteBank_Atual\obj\Release\net6.0\ByteBank_Atual.AssemblyInfo.cs
+C:\Users\Piettro Torres\source\repos\C3_Entendendo_Heranca_e_Interface\ByteBank_Atual\obj\Release\net6.0\ByteBank_Atual.csproj.CoreCompileInputs.cache
+C:\Users\Piettro Torres\source\repos\C3_Entendendo_Heranca_e_Interface\ByteBank_Atual\obj\Release\net6.0\ByteBank_Atual.dll
+C:\Users\Piettro Torres\source\repos\C3_Entendendo_Heranca_e_Interface\ByteBank_Atual\obj\Release\net6.0\ref\ByteBank_Atual.dll
+C:\Users\Piettro Torres\source\repos\C3_Entendendo_Heranca_e_Interface\ByteBank_Atual\obj\Release\net6.0\ByteBank_Atual.pdb
+C:\Users\Piettro Torres\source\repos\C3_Entendendo_Heranca_e_Interface\ByteBank_Atual\obj\Release\net6.0\ByteBank_Atual.genruntimeconfig.cache

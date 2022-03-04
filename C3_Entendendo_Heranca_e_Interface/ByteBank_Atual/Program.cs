@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-
+using ByteBank_Atual.Sistemas;
 using ByteBank_Atual.Funcionarios;
 
 namespace ByteBank_Atual
@@ -8,7 +8,28 @@ namespace ByteBank_Atual
     {
         static void Main(string[] args)
         {
-            CalcularBonificacao();
+            // CalcularBonificacao();
+            UsarSistema();
+        }
+
+        public static void UsarSistema()
+        {
+            SistemaInterno sistemaInterno = new SistemaInterno();
+            Diretor diretor1 = new Diretor("923.842.242-09");
+            diretor1.Nome = "Roberta";
+            diretor1.Senha = "123";
+
+            sistemaInterno.Logar(diretor1, "123");
+            sistemaInterno.Logar(diretor1, "324");
+
+
+            GerenteDeConta gerente1 = new GerenteDeConta("249.323.423-02");
+            gerente1.Nome = "Camila";
+            gerente1.Senha = "254";
+
+            sistemaInterno.Logar(gerente1, "254");
+            sistemaInterno.Logar(gerente1, "324");
+
         }
 
         public static void CalcularBonificacao ()

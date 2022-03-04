@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ByteBank_Atual.Sistemas;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,17 +7,18 @@ using System.Threading.Tasks;
 
 namespace ByteBank_Atual.Funcionarios
 {
-        public class GerenteDeConta : Funcionario
+        public class GerenteDeConta : Autenticavel
+
         {
             public GerenteDeConta(string cpf) : base(4000, cpf)
             {
-
+            Console.WriteLine("Construtor de Gerente de Conta");
             }
 
             public override void AumentarSalario()
-            {
-                Salario *= 1.05;
-            }
+                {
+                    Salario *= 1.05;
+                }
 
             public override double GetBonificacao()
             {
