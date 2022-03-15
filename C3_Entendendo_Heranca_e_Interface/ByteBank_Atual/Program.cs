@@ -27,6 +27,10 @@ namespace ByteBank_Atual
             gerente1.Nome = "Camila";
             gerente1.Senha = "254";
 
+            ParceiroComercial parceiro1 = new ParceiroComercial();
+            parceiro1.Senha = "1234";
+
+            sistemaInterno.Logar(parceiro1, "1234");
             sistemaInterno.Logar(gerente1, "254");
             sistemaInterno.Logar(gerente1, "324");
 

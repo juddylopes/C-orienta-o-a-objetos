@@ -1,32 +1,17 @@
-﻿using _7_ByteBank;
+﻿using ByteBank;
 
 
 
-namespace _7_ByteBank
+namespace ByteBank
 {
 
     public class ContaCorrente
     {
-       // private Cliente _titular; //necessário nome do namespace e da classe
-
-       // public Cliente Titular
-       //  {
-       //     get 
-       //     { 
-       //        return _titular; 
-       //    }    
-       //     set 
-       //     { 
-       //        _titular = value;
-       //     }   
-       // }
-
-        // outra forma de simplificar:
-        // sem colocar o private Cliente _titular antes
         
         public Cliente Titular { get; set; }
+        public static double TaxaOperacao { get; private set; }
 
-        public static int TotalDeContasCriadas { get; private set; } // static: característica que pertence a todos dessa classe
+        public static int TotalDeContasCriadas { get; private set; } 
      
 
         private int _agencia;
@@ -51,7 +36,7 @@ namespace _7_ByteBank
         }
         public int Numero { get; set; }
     
-        private double _saldo = 100; // é visível apenas dentro dessa classe para os métodos dessa mesma classe.
+        private double _saldo = 100; 
 
         public double Saldo
         {
@@ -61,7 +46,7 @@ namespace _7_ByteBank
             }
             set
             {
-                if (value < 0 ) // value: palavra reservada para o *argumento* do set
+                if (value < 0 ) 
                 {
                     return;
                 }
@@ -69,14 +54,14 @@ namespace _7_ByteBank
             }
         }
 
-        // Get e Set - métodos de encapsulamento para proteger a informação
-
-        public ContaCorrente (int agencia, int numero) // construtores + parâmetros/variáveis
+        public ContaCorrente (int agencia, int numero) 
         {
             Agencia = agencia;
             Numero = numero;
 
-            TotalDeContasCriadas++; //acrementar e atribuir
+            TaxaOperacao = 30 / TotalDeContasCriadas;
+
+            TotalDeContasCriadas++;
 
         }
 
@@ -115,14 +100,6 @@ namespace _7_ByteBank
 
         }
 
-
-
-        // o sacar é uma função e não uma variável ... A primeira letra de uma função é sempre maiúscula 
-        // + ação é representada por verbo
-        //this: palavra reservada para acessar a variável do objeto base
-        // return: devolve um valor para quem recorreu a função
-        // se a expressão booleana tiver um IF dentro é obrigatório return para as opções apresentadas
-        // void: função/método sem retorno
     }
 
 }

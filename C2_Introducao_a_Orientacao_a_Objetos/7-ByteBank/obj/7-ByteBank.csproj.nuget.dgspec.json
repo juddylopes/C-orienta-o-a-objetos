@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Piettro Torres\\source\\repos\\CSharp-Introducao_a_Orientacao_a_Objetos\\7-ByteBank\\7-ByteBank.csproj": {}
+    "C:\\Users\\Piettro Torres\\source\\repos\\C2_Introducao_a_Orientacao_a_Objetos\\7-ByteBank\\7-ByteBank.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Piettro Torres\\source\\repos\\CSharp-Introducao_a_Orientacao_a_Objetos\\7-ByteBank\\7-ByteBank.csproj": {
+    "C:\\Users\\Piettro Torres\\source\\repos\\C2_Introducao_a_Orientacao_a_Objetos\\7-ByteBank\\7-ByteBank.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Piettro Torres\\source\\repos\\CSharp-Introducao_a_Orientacao_a_Objetos\\7-ByteBank\\7-ByteBank.csproj",
+        "projectUniqueName": "C:\\Users\\Piettro Torres\\source\\repos\\C2_Introducao_a_Orientacao_a_Objetos\\7-ByteBank\\7-ByteBank.csproj",
         "projectName": "7-ByteBank",
-        "projectPath": "C:\\Users\\Piettro Torres\\source\\repos\\CSharp-Introducao_a_Orientacao_a_Objetos\\7-ByteBank\\7-ByteBank.csproj",
+        "projectPath": "C:\\Users\\Piettro Torres\\source\\repos\\C2_Introducao_a_Orientacao_a_Objetos\\7-ByteBank\\7-ByteBank.csproj",
         "packagesPath": "C:\\Users\\Piettro Torres\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Piettro Torres\\source\\repos\\CSharp-Introducao_a_Orientacao_a_Objetos\\7-ByteBank\\obj\\",
+        "outputPath": "C:\\Users\\Piettro Torres\\source\\repos\\C2_Introducao_a_Orientacao_a_Objetos\\7-ByteBank\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Piettro Torres\\AppData\\Roaming\\NuGet\\NuGet.Config",
