@@ -1,0 +1,15 @@
+C:\Users\Piettro Torres\source\repos\C4_Entendendo_Excecoes\TesteMetodos\obj\Debug\net6.0\TesteMetodos.csproj.AssemblyReference.cache
+C:\Users\Piettro Torres\source\repos\C4_Entendendo_Excecoes\TesteMetodos\obj\Debug\net6.0\TesteMetodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Piettro Torres\source\repos\C4_Entendendo_Excecoes\TesteMetodos\obj\Debug\net6.0\TesteMetodos.AssemblyInfoInputs.cache
+C:\Users\Piettro Torres\source\repos\C4_Entendendo_Excecoes\TesteMetodos\obj\Debug\net6.0\TesteMetodos.AssemblyInfo.cs
+C:\Users\Piettro Torres\source\repos\C4_Entendendo_Excecoes\TesteMetodos\obj\Debug\net6.0\TesteMetodos.csproj.CoreCompileInputs.cache
+C:\Users\Piettro Torres\source\repos\C4_Entendendo_Excecoes\TesteMetodos\bin\Debug\net6.0\TesteMetodos.exe
+C:\Users\Piettro Torres\source\repos\C4_Entendendo_Excecoes\TesteMetodos\bin\Debug\net6.0\TesteMetodos.deps.json
+C:\Users\Piettro Torres\source\repos\C4_Entendendo_Excecoes\TesteMetodos\bin\Debug\net6.0\TesteMetodos.runtimeconfig.json
+C:\Users\Piettro Torres\source\repos\C4_Entendendo_Excecoes\TesteMetodos\bin\Debug\net6.0\TesteMetodos.dll
+C:\Users\Piettro Torres\source\repos\C4_Entendendo_Excecoes\TesteMetodos\bin\Debug\net6.0\ref\TesteMetodos.dll
+C:\Users\Piettro Torres\source\repos\C4_Entendendo_Excecoes\TesteMetodos\bin\Debug\net6.0\TesteMetodos.pdb
+C:\Users\Piettro Torres\source\repos\C4_Entendendo_Excecoes\TesteMetodos\obj\Debug\net6.0\TesteMetodos.dll
+C:\Users\Piettro Torres\source\repos\C4_Entendendo_Excecoes\TesteMetodos\obj\Debug\net6.0\ref\TesteMetodos.dll
+C:\Users\Piettro Torres\source\repos\C4_Entendendo_Excecoes\TesteMetodos\obj\Debug\net6.0\TesteMetodos.pdb
+C:\Users\Piettro Torres\source\repos\C4_Entendendo_Excecoes\TesteMetodos\obj\Debug\net6.0\TesteMetodos.genruntimeconfig.cache

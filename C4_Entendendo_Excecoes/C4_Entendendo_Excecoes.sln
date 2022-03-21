@@ -5,6 +5,10 @@ VisualStudioVersion = 17.0.32126.317
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ByteBank", "..\C2_Introducao_a_Orientacao_a_Objetos\7-ByteBank\ByteBank.csproj", "{460EC227-445B-4E20-975A-4D057F5C883C}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TesteMetodos", "TesteMetodos\TesteMetodos.csproj", "{DEA7BA01-2275-4FC5-ABE9-84C63BA895BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteMetodo_2", "TesteMetodo_2\TesteMetodo_2.csproj", "{1E8FEFB6-2590-48E4-B0FF-6E9E9A963D95}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{460EC227-445B-4E20-975A-4D057F5C883C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{460EC227-445B-4E20-975A-4D057F5C883C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{460EC227-445B-4E20-975A-4D057F5C883C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEA7BA01-2275-4FC5-ABE9-84C63BA895BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEA7BA01-2275-4FC5-ABE9-84C63BA895BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEA7BA01-2275-4FC5-ABE9-84C63BA895BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEA7BA01-2275-4FC5-ABE9-84C63BA895BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E8FEFB6-2590-48E4-B0FF-6E9E9A963D95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E8FEFB6-2590-48E4-B0FF-6E9E9A963D95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E8FEFB6-2590-48E4-B0FF-6E9E9A963D95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E8FEFB6-2590-48E4-B0FF-6E9E9A963D95}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
