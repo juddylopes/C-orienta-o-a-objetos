@@ -8,8 +8,16 @@ namespace ByteBank
     {
         static void Main (string [] args)
         {
-            ContaCorrente conta1 = new ContaCorrente(873, 8732034);
-            Console.WriteLine(ContaCorrente.TaxaOperacao);
+            try
+            {
+                ContaCorrente conta1 = new ContaCorrente(0, 0);
+            }
+            catch (ArgumentException ex)
+            {
+                Console.WriteLine(ex.Message);
+                Console.WriteLine(ex.ParamName);
+            }
+            
 
 
 

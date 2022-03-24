@@ -15,7 +15,12 @@
       "ProjectGuid": "dea7ba01-2275-4fc5-abe9-84c63ba895bf",
       "DisplayName": "TesteMetodos",
       "ColorIndex": 2
+    },
+    "1e8fefb6-2590-48e4-b0ff-6e9e9a963d95": {
+      "ProjectGuid": "1e8fefb6-2590-48e4-b0ff-6e9e9a963d95",
+      "DisplayName": "TesteMetodo_2",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 4
 }

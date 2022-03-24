@@ -12,3 +12,4 @@ C:\Users\Piettro Torres\source\repos\C2_Introducao_a_Orientacao_a_Objetos\7-Byte
 C:\Users\Piettro Torres\source\repos\C2_Introducao_a_Orientacao_a_Objetos\7-ByteBank\obj\Debug\net6.0\ref\ByteBank.dll
 C:\Users\Piettro Torres\source\repos\C2_Introducao_a_Orientacao_a_Objetos\7-ByteBank\obj\Debug\net6.0\ByteBank.pdb
 C:\Users\Piettro Torres\source\repos\C2_Introducao_a_Orientacao_a_Objetos\7-ByteBank\obj\Debug\net6.0\ByteBank.genruntimeconfig.cache
+C:\Users\Piettro Torres\source\repos\C2_Introducao_a_Orientacao_a_Objetos\7-ByteBank\obj\Debug\net6.0\ByteBank.csproj.AssemblyReference.cache

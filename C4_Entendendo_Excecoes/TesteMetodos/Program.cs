@@ -10,44 +10,42 @@ class Program
         {
             Metodo();
         }
-        catch (DivideByZeroException excecao)
+
+        catch (DivideByZeroException e) 
         {
-            Console.WriteLine("Exceção tratada.");
-            Console.WriteLine(excecao.Message);
-            Console.WriteLine(excecao.StackTrace);
+            Console.WriteLine("Não é possível divisão por 0!");
         }
-        catch (NullReferenceException excecao)
+
+        catch (Exception e) // e = palavra reservada para erro de tratamento das exceções
         {
-            Console.WriteLine("Exceção tratada.");
-            Console.WriteLine(excecao.Message);
-            Console.WriteLine(excecao.StackTrace);
+            Console.WriteLine(e.Message);
+            Console.WriteLine(e.StackTrace);
         }
+       
+    }
+
     static void Metodo()
     {
-        try
-        {
-            TestaDivisao(0);
-        }
-        catch (NullReferenceException excecao)
-        {
-            Console.WriteLine(excecao.Message);
-            Console.WriteLine(excecao.StackTrace);
-        }
-        
+        TestaDivisao(0);
+
     }
 
     static void TestaDivisao(int divisor)
     {
         Dividir(10, divisor);
     }
-    public static int Dividir(int numero, int divisor)
+
+    static int Dividir(int numero, int divisor)
     {
-        ContaCorrente conta = null;
-        Console.WriteLine(conta.Saldo);
-        return numero / divisor;
+        try
+        {
+            return numero / divisor;
+        }
+        catch (Exception)
+        {
+            Console.WriteLine("Exceção com numero=" + numero + " e divisor=" + divisor);
+            throw;
+        }
     }
-
-
-
 
 }
