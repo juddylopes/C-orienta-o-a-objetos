@@ -5,34 +5,59 @@ namespace ByteBank
     {
         static void Main (string [] args)
         {
+            CarregarContas ();
+
+        }
+        public static void CarregarContas()
+        {
+           // using (LeitorDeArquivo leitor2 = new LeitorDeArquivo ("teste.txt"))
+            //{                                     // método para substituir os itens abaixo
+            //    leitor2.LerProximaLinha();
+            //}
+
+            LeitorDeArquivo leitor1 = null;
+
+            try
+            {
+            leitor1 = new LeitorDeArquivo("contas.txt");
+            leitor1.LerProximaLinha();
+            leitor1.LerProximaLinha();
+            leitor1.LerProximaLinha();
+            }
+
+            finally
+            {
+                if(leitor1 != null)
+                {
+                    leitor1.Fechar();
+                }
+                
+            }
+        }
+
+
+        private static void TestaInnerException ()
+        {
             try
             {
                 ContaCorrente conta1 = new ContaCorrente(456, 2554);
                 ContaCorrente conta2 = new ContaCorrente(457, 3253);
 
-                conta2.Transferir(-10, conta1);
-                conta1.Depositar(50);
-                Console.WriteLine(conta1.Saldo);
-                conta1.Sacar(500);
+                conta1.Transferir(10000, conta2);
             }
-            catch (ArgumentException ex)
+            catch (OperacaoFinanceiraException e)
             {
-                if (ex.ParamName == "numero")
-                {
+                Console.WriteLine(e.Message);
+                Console.WriteLine(e.StackTrace);
 
-                }
-                Console.WriteLine(ex.Message);
-                Console.WriteLine(ex.ParamName);
+                Console.WriteLine("Informações da INNER EXCEPTION (exeção interna) : ");
+                Console.WriteLine(e.InnerException.Message);
+                Console.WriteLine(e.InnerException.StackTrace);
+
             }
-            catch (SaldoInsuficienteException ex)
-            {
-                Console.WriteLine(ex.Message);
-                Console.WriteLine("Exceção do tipo SaldoInsuficienteException.");
-            }
-
-
 
         }
+
 
     }
 }
